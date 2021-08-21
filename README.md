@@ -1,29 +1,42 @@
 # Coding with teens
 
-Session information of me teaching/coding with my kids
+topics/planning of me coaching/teaching my kid how to code.
 
 # topics
 
 ## day 1 - basic setup
 
-1. how to read and have access to this site
-2. areas of software development
+1. areas of software development
    - frontend
    - UI/UX graphical
    - backend
      - transactional
      - data / analytics
      - AI
-     - game
-3. project based
+   - game
+2. project based 4. managing files / basic scripting
    1. website?
    2. small text game?
    3. spreadsheet?
-   4. managing files / basic scripting
+3. how to read and have access to this site
+   1. create an account on github.com
+   2. how github works
+4. git/github setup
+   1. install git and github-cli using apt
+   2. generate a ssh-key with "ssh-keygen -t rsa" with a passphrase
+   3. print the public key with "cat ~/.ssh/id_rsa.pub"
+   4. vscodium
+5. how to get this code locally
 
-## how to learn
+## next up: day 2
 
-## taking notes
+### markup languages
+
+1. markdown/commonmark
+2. org-mode
+3. others: asciidoc, reStructured
+
+### taking notes
 
 - joplin
 - markup languages
@@ -31,11 +44,10 @@ Session information of me teaching/coding with my kids
 - organizing
 - searching
 
-## markup languages
+### how to learn in linux
 
-1. markdown/commonmark
-2. org-mode
-3. others: asciidoc, reStructured
+- man pages
+- info pages
 
 ## creating a personal website
 
