@@ -30,16 +30,18 @@ topics/planning of me coaching/teaching my kid how to code.
 
 ## next up: day 2
 
-### markup languages
-
-1. markdown/commonmark
-2. org-mode
-3. others: asciidoc, reStructured
+1. markup languages
+   1. Overview of HTML
+      create a basic page with 1 heading and one table
+   2. markdown
+      1. commonmark: https://commonmark.org/
+      2. github: https://github.github.com/gfm/
+   3. org-mode examples
+   4. others: asciidoc, reStructured
 
 ### taking notes
 
 - joplin
-- markup languages
 - reading / writing
 - organizing
 - searching
@@ -50,6 +52,11 @@ topics/planning of me coaching/teaching my kid how to code.
 - info pages
 
 ## creating a personal website
+
+## script to rename/organize picture files
+
+lint with: shellcheck
+unit tests with: https://github.com/kward/shunit2
 
 ## linux terminal
 
